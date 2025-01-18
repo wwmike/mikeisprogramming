@@ -21,7 +21,7 @@
             Over 20 years ago, I created my first blog engine in PHP. I was just a kid who had started learning how the web works.
             A lot has happened since then, and now my goals are completely different. This blog is no longer a tool for learning; it’s a tool for sharing knowledge.</p>
 
-        <p>Since 2014, I’ve learned many different things, including the importance of a good MVP. I see many developers spending days choosing the "right" tool,
+        <p>Since 2004, I’ve learned many different things, including the importance of a good MVP. I see many developers spending days choosing the "right" tool,
             and in the process, their energy is wasted on unproductive tasks. To avoid that, this blog is built simply with HTML, Tailwind CSS,
             and various AI tools to create an initial design that isn’t an eyesore.</p>
 

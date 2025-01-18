@@ -12,7 +12,7 @@
 		"test:unit": "vitest",
 		"test": "npm run test:unit -- --run && npm run test:e2e",
 		"test:e2e": "playwright test",
-		"deploy": "pnpm build && pnpx gh-pages -d build -t true"
+		"deploy": "pnpm build && pnpx gh-pages -d build --nojekyll --cname mikeisprogramming.com"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.49.1",
