@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 100">
+    <!-- Background Code Brackets -->
+<!--    <path d="M20 20 L40 10 L40 90 L20 80 Z" fill="#e2e8f0"/>-->
+<!--    <path d="M445 20 L425 10 L425 90 L445 80 Z" fill="#e2e8f0"/>-->
+
+    <!-- Text Container -->
+    <g transform="translate(50, 65)">
+        <!-- mike -->
+        <text font-family="monospace" font-size="40" fill="#efefef" font-weight="bold">
+            mike
+        </text>
+
+        <!-- is -->
+        <text x="100" font-family="monospace" font-size="40" fill="#ebebeb">
+            is
+        </text>
+
+        <!-- programming -->
+        <text x="155" font-family="monospace" font-size="40" fill="#a3e635" font-weight="bold">
+            $programm
+        </text>
+
+        <!-- Cursor Animation -->
+        <rect x="372" y="-35" width="3" height="40" fill="#a3e635">
+            <animate
+                    attributeName="opacity"
+                    values="1;0;1"
+                    dur="2s"
+                    repeatCount="indefinite"
+            />
+        </rect>
+    </g>
+
+    <!-- Decorative Elements -->
+    <circle cx="30" cy="50" r="3" fill="#ffffff"/>
+    <circle cx="445" cy="50" r="3" fill="#ffffff"/>
+</svg>
