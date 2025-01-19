@@ -14,7 +14,7 @@
         </p>
     </div>
 </div>
-<main class="max-w-3xl mx-auto flex items-center justify-center pb-8">
+<main class="max-w-3xl mx-auto flex items-center justify-center px-4 pb-8">
     <article class="prose prose-lg mt-4">
         <h1 class="text-3xl font-bold mb-4">Kickoff article</h1>
         <p class="mb-6">As every blog needs a somewhat useless first post to see how things work, I am writing these lines.
