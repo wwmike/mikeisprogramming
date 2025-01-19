@@ -5,6 +5,7 @@
     export let image = "https://placehold.co/400x300";
     export let summary = "Exploring emerging trends and technologies that are shaping the future of web development and digital experiences."
     export let date = "January 18, 2025"
+    export let link = "https://mikeisprogramming.com/"
 </script>
 <article class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-shadow duration-300 overflow-hidden">
     <div class="relative">
@@ -24,7 +25,7 @@
         </p>
         <div class="flex items-center justify-between">
             <span class="text-sm text-gray-500">{date}</span>
-            <a href="#" class="text-{color}-600 font-semibold group-hover:text-{color}-800 transition-colors">
+            <a href="{link}" class="text-{color}-600 font-semibold group-hover:text-{color}-800 transition-colors">
                 Read More →
             </a>
         </div>
